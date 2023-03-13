@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42557557205",
+    "project_id": "sirca-4036c",
+    "storage_bucket": "sirca-4036c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42557557205:android:5a7bebef2fae5b384e955c",
+        "android_client_info": {
+          "package_name": "com.sirca.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42557557205-svksrjif9a87cgpcmnolko3lbsfla8l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBkIAKmFYkCGYYhotsPzXceKoLvQGFRYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42557557205-svksrjif9a87cgpcmnolko3lbsfla8l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
